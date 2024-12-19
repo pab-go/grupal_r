@@ -1,6 +1,6 @@
 ---
 title: "Entrega grupal"
-author: "Wenxiang Xia (DNI:X7276507C)"
+author: "Wenxiang Xia (DNI:X7276507C), JAvier FIgueiredo Tor (DNI:06341629T)"
 format:
   revealjs:
     theme: [style.scss]
